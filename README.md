@@ -68,11 +68,10 @@ It helps teams manage:
 
 # Project Structure 📁
 
-```bash
+```text
 syncsphere/
 │
 ├── frontend/
-│
 ├── backend/
-│
 └── README.md
+```
